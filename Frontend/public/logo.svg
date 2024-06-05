@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+  <!-- Define text element with attributes such as font size, font family, etc. -->
+  <text x="5" y="63" font-family="Arial" font-size="29" fill="#76A959BF">DriveX</text>
+</svg>
